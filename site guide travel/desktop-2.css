@@ -1,0 +1,605 @@
+/* screen - desktop-2 */
+
+.desktop-2 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    gap: 1730px;
+    height: 4138px;
+    overflow: hidden;
+    width: 1481.2px;
+}
+
+.desktop-2 .desktop-1 {
+    height: 4329px;
+    margin-left: -3235px;
+    margin-top: 94px;
+    width: 1481px;
+}
+
+.desktop-2 .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 4138px;
+    width: 1583px;
+}
+
+.desktop-2 .flex-col-1 {
+    align-items: center;
+    min-height: 3085px;
+    padding: 0 23px;
+    width: 1583px;
+}
+
+.desktop-2 .overlap-group {
+    align-items: center;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a866b18b10acb0b987d6/img/rectangle-1.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 136px;
+    justify-content: flex-end;
+    margin-right: 55.8px;
+    min-width: 1481px;
+    padding: 15px 26.8px;
+}
+
+.desktop-2 .logo-guide-bassoul-1 {
+    align-self: flex-start;
+    height: 87px;
+    object-fit: cover;
+    width: 155px;
+}
+
+.desktop-2 .overlap-group1 {
+    height: 45px;
+    margin-bottom: 23.0px;
+    margin-left: 46px;
+    position: relative;
+    width: 381px;
+}
+
+.desktop-2 .rectangle-2-1 {
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 370px;
+}
+
+.desktop-2 .dakariles-du-saloumcapskiring {
+    height: 16px;
+    left: 14px;
+    position: absolute;
+    top: 16px;
+    width: 246px;
+}
+
+.desktop-2 .ellipse-1 {
+    height: 45px;
+    left: 329px;
+    position: absolute;
+    top: 0;
+    width: 52px;
+}
+
+.desktop-2 .icon-search {
+    height: 27px;
+    left: 340px;
+    position: absolute;
+    top: 9px;
+    width: 34px;
+}
+
+.desktop-2 .home {
+    height: 12px;
+    margin-bottom: 15.47px;
+    margin-left: 293px;
+    width: 44px;
+}
+
+.desktop-2 .destinations {
+    height: 12px;
+    margin-bottom: 16.02px;
+    margin-left: 94px;
+    width: 96px;
+}
+
+.desktop-2 .blog {
+    height: 15px;
+    margin-bottom: 12.18px;
+    margin-left: 66px;
+    width: 32px;
+}
+
+.desktop-2 .voyages {
+    height: 15px;
+    margin-bottom: 20.18px;
+    margin-left: 57px;
+    width: 65px;
+}
+
+.desktop-2 .overlap-group2 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a866b18b10acb0b987d6/img/ellipse-2.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 46px;
+    justify-content: flex-end;
+    margin-bottom: 24.0px;
+    margin-left: 43px;
+    min-width: 53px;
+    padding: 10px 11.1px;
+}
+
+.desktop-2 .icon-user {
+    height: 24px;
+    width: 30px;
+}
+
+.desktop-2 .overlap-group4 {
+    align-self: flex-start;
+    height: 477px;
+    margin-left: 0;
+    margin-top: 11px;
+    position: relative;
+    width: 1440px;
+}
+
+.desktop-2 .votre-site-de-guide {
+    height: 19px;
+    left: 334px;
+    position: absolute;
+    top: 262px;
+    width: 746px;
+}
+
+.desktop-2 .rectangle-57 {
+    height: 473px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.desktop-2 .rectangle-58 {
+    height: 473px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.desktop-2 .rectangle-59 {
+    height: 473px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 1440px;
+}
+
+.desktop-2 .destinations-afrique {
+    height: 51px;
+    left: 189px;
+    position: absolute;
+    top: 338px;
+    width: 766px;
+}
+
+.desktop-2 .partez-en-voyage-en-afrique {
+    height: 35px;
+    margin-right: 396.37px;
+    margin-top: 51px;
+    width: 492px;
+}
+
+.desktop-2 .trop-souvent-oubli-d {
+    height: 649px;
+    margin-right: 79.89px;
+    margin-top: 60px;
+    width: 834px;
+}
+
+.desktop-2 .flex-row {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 64.0px;
+    margin-top: 116px;
+    min-width: 873px;
+}
+
+.desktop-2 .rectangle {
+    height: 213px;
+    object-fit: cover;
+    width: 270px;
+}
+
+.desktop-2 .rectangle-1 {
+    height: 213px;
+    margin-left: 30px;
+    object-fit: cover;
+    width: 270px;
+}
+
+.desktop-2 .rectangle-2 {
+    height: 213px;
+    margin-left: 33px;
+    object-fit: cover;
+    width: 270px;
+}
+
+.desktop-2 .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 240.71px;
+    margin-top: 44px;
+    min-width: 694px;
+}
+
+.desktop-2 .senegal {
+    height: 18px;
+    width: 109px;
+}
+
+.desktop-2 .ghana {
+    height: 18px;
+    margin-left: 191px;
+    width: 87px;
+}
+
+.desktop-2 .gambie {
+    height: 18px;
+    margin-left: 216px;
+    width: 91px;
+}
+
+.desktop-2 .flex-row-2 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 52.0px;
+    margin-top: 59px;
+    min-width: 873px;
+}
+
+.desktop-2 .flex-row-3 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 210.05px;
+    margin-top: 49px;
+    min-width: 724px;
+}
+
+.desktop-2 .gabon {
+    height: 18px;
+    width: 84px;
+}
+
+.desktop-2 .cote-divoire {
+    height: 18px;
+    margin-left: 216px;
+    width: 170px;
+}
+
+.desktop-2 .cap-vert {
+    height: 18px;
+    margin-left: 133px;
+    width: 121px;
+}
+
+.desktop-2 .flex-row-4 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 52.0px;
+    margin-top: 54px;
+    min-width: 873px;
+}
+
+.desktop-2 .flex-row-5 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 132.11px;
+    margin-top: 53px;
+    min-width: 802px;
+}
+
+.desktop-2 .cameroun {
+    height: 18px;
+    width: 138px;
+}
+
+.desktop-2 .botswana {
+    height: 18px;
+    margin-left: 163px;
+    width: 138px;
+}
+
+.desktop-2 .afrique-du-sud {
+    height: 19px;
+    margin-left: 164px;
+    width: 200px;
+}
+
+.desktop-2 .flex-row-6 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 64.0px;
+    margin-top: 48px;
+    min-width: 873px;
+}
+
+.desktop-2 .flex-row-7 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 252.21px;
+    margin-top: 53px;
+    min-width: 682px;
+}
+
+.desktop-2 .guinee-equateur {
+    height: 19px;
+    width: 223px;
+}
+
+.desktop-2 .iles-maurice {
+    height: 18px;
+    margin-left: 77px;
+    width: 164px;
+}
+
+.desktop-2 .kenya {
+    height: 17px;
+    margin-left: 139px;
+    margin-top: 0.24px;
+    width: 79px;
+}
+
+.desktop-2 .flex-row-8 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 54.0px;
+    margin-top: 48px;
+    min-width: 873px;
+}
+
+.desktop-2 .flex-row-9 {
+    align-items: center;
+    display: flex;
+    margin-right: 260.15px;
+    margin-top: 54px;
+    min-width: 673px;
+}
+
+.desktop-2 .mali {
+    height: 17px;
+    margin-bottom: 0;
+    width: 56px;
+}
+
+.desktop-2 .rwanda {
+    height: 17px;
+    margin-bottom: 0;
+    margin-left: 249px;
+    width: 105px;
+}
+
+.desktop-2 .niger {
+    height: 18px;
+    margin-left: 193px;
+    width: 70px;
+}
+
+.desktop-2 .flex-row-10 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 54.0px;
+    margin-top: 49px;
+    min-width: 873px;
+}
+
+.desktop-2 .flex-row-11 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 160.63px;
+    margin-top: 54px;
+    min-width: 774px;
+}
+
+.desktop-2 .tchad {
+    height: 18px;
+    width: 83px;
+}
+
+.desktop-2 .togo {
+    height: 18px;
+    margin-left: 222px;
+    width: 68px;
+}
+
+.desktop-2 .madagascar {
+    height: 18px;
+    margin-left: 231px;
+    width: 171px;
+}
+
+.desktop-2 .flex-row-12 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 66.0px;
+    margin-top: 49px;
+    min-width: 873px;
+}
+
+.desktop-2 .flex-row-13 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 229.38px;
+    margin-top: 45px;
+    min-width: 704px;
+}
+
+.desktop-2 .mozambique {
+    height: 19px;
+    width: 165px;
+}
+
+.desktop-2 .burina-faso {
+    height: 18px;
+    margin-left: 135px;
+    width: 157px;
+}
+
+.desktop-2 .angola {
+    height: 18px;
+    margin-left: 145px;
+    width: 102px;
+}
+
+.desktop-2 .flex-row-14 {
+    align-items: flex-start;
+    align-self: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a866b18b10acb0b987d6/img/rectangle-56.svg);
+    background-size: 100% 100%;
+    display: flex;
+    gap: 166px;
+    height: 286px;
+    justify-content: flex-end;
+    margin-left: 23.0px;
+    margin-top: 34px;
+    min-width: 1481px;
+    padding: 21.4px 166.0px;
+}
+
+.desktop-2 .guide-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+    min-height: 159px;
+    width: 203px;
+}
+
+.desktop-2 .bassoul-travel-guide {
+    height: 10px;
+    width: 157px;
+}
+
+.desktop-2 .la-premire-plateform {
+    height: 123px;
+    margin-left: 4.39px;
+    width: 199px;
+}
+
+.desktop-2 .flex-col-2 {
+    align-items: flex-start;
+    min-height: 140px;
+    width: 645px;
+}
+
+.desktop-2 .nous-contactez {
+    height: 10px;
+    margin-left: 6.93px;
+    width: 122px;
+}
+
+.desktop-2 .flex-row-15 {
+    align-items: flex-start;
+    display: flex;
+    height: 26px;
+    margin-top: 24px;
+    min-width: 162px;
+}
+
+.desktop-2 .icon-twitter {
+    height: 22px;
+    width: 27px;
+}
+
+.desktop-2 .icon-linkedin {
+    align-self: center;
+    height: 20px;
+    margin-bottom: 2.0px;
+    margin-left: 24px;
+    width: 19px;
+}
+
+.desktop-2 .whatsapp-1 {
+    height: 22px;
+    margin-left: 14px;
+    width: 30px;
+}
+
+.desktop-2 .icon-instagram {
+    align-self: flex-end;
+    height: 22px;
+    margin-left: 14px;
+    width: 34px;
+}
+
+.desktop-2 .flex-col-3 {
+    align-items: flex-start;
+    gap: 20px;
+    margin-left: 1.0px;
+    margin-top: 13px;
+    min-height: 67px;
+    width: 644px;
+}
+
+.desktop-2 .flex-row-16 {
+    align-items: flex-end;
+    display: flex;
+    gap: 22px;
+    min-width: 154px;
+}
+
+.desktop-2 .icon-call {
+    height: 22px;
+    width: 17px;
+}
+
+.desktop-2 .x221-77-108-06-02 {
+    height: 10px;
+    margin-bottom: 1.82px;
+    width: 114px;
+}
+
+.desktop-2 .flex-row-17 {
+    align-items: flex-end;
+    align-self: flex-end;
+    display: flex;
+    height: 25px;
+    min-width: 639px;
+}
+
+.desktop-2 .icon-mail {
+    align-self: flex-start;
+    height: 24px;
+    width: 17px;
+}
+
+.desktop-2 .rokhythiamsngmailcom {
+    align-self: center;
+    height: 13px;
+    margin-bottom: 0.1px;
+    margin-left: 15px;
+    width: 166px;
+}
+
+.desktop-2 .copyright_fill0_wght400_grad0_opsz48-1 {
+    height: 21px;
+    margin-left: 78px;
+    width: 25px;
+}
+
+.desktop-2 .copyright-bassoul-tr {
+    height: 13px;
+    margin-bottom: 2.19px;
+    margin-left: 32px;
+    width: 308px;
+}
+
+.desktop-2 .flex-col-4 {
+    display: flex;
+    flex-direction: column;
+}

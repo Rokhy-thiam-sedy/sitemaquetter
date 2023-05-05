@@ -1,0 +1,404 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 4329px;
+    width: 1481.2px;
+}
+
+.desktop-1 .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 2016px;
+    width: 1481px;
+}
+
+.desktop-1 .group-1 {
+    height: 136px;
+    width: 1481px;
+}
+
+.desktop-1 .group-2 {
+    height: 476px;
+    margin-right: 0.14px;
+    margin-top: 6px;
+    width: 1481px;
+}
+
+.desktop-1 .overlap-group9 {
+    height: 516px;
+    margin-right: 2.2px;
+    margin-top: 20px;
+    position: relative;
+    width: 881px;
+}
+
+.desktop-1 .voyager-dans-le-monde {
+    height: 27px;
+    left: 171px;
+    position: absolute;
+    top: 9px;
+    width: 476px;
+}
+
+.desktop-1 .group-5 {
+    height: 516px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 881px;
+}
+
+.desktop-1 .overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 2.2px;
+    margin-top: 126px;
+    min-width: 881px;
+}
+
+.desktop-1 .overlap-group {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-35@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 305px;
+    position: relative;
+    width: 280px;
+}
+
+.desktop-1 .rectangle {
+    height: 305px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 280px;
+}
+
+.desktop-1 .overlap-group-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-36@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 305px;
+    margin-left: 20px;
+    position: relative;
+    width: 280px;
+}
+
+.desktop-1 .overlap-group-2 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-37@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 305px;
+    margin-left: 21px;
+    position: relative;
+    width: 280px;
+}
+
+.desktop-1 .flex-row {
+    align-items: flex-start;
+    display: flex;
+    gap: 26px;
+    height: 773px;
+    margin-right: 50.25px;
+    margin-top: 37px;
+    min-width: 831px;
+}
+
+.desktop-1 .flex-col-1 {
+    gap: 31px;
+    min-height: 766px;
+    width: 411px;
+}
+
+.desktop-1 .overlap-group2 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-49@2x.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 84px;
+    margin-left: 2px;
+    min-width: 409px;
+    padding: 18.8px 21.4px;
+}
+
+.desktop-1 .pourquoi-se-faire-ac {
+    height: 43px;
+    width: 343px;
+}
+
+.desktop-1 .rectangle-50 {
+    height: 651px;
+    object-fit: cover;
+    width: 411px;
+}
+
+.desktop-1 .il-ny-aura-jamais-mi {
+    align-self: flex-end;
+    height: 769px;
+    width: 394px;
+}
+
+.desktop-1 .overlap-group10 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-51@2x.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 85px;
+    margin-left: 361.8px;
+    margin-top: 83px;
+    min-width: 405px;
+    padding: 30.8px 17.5px;
+}
+
+.desktop-1 .vous-etes-guide-touristique {
+    height: 19px;
+    width: 271px;
+}
+
+.desktop-1 .rect-container {
+    align-items: flex-start;
+    display: flex;
+    gap: 11px;
+    height: 397px;
+    margin-right: 41.91px;
+    margin-top: 32px;
+    min-width: 839px;
+}
+
+.desktop-1 .rectangle-52 {
+    height: 367px;
+    object-fit: cover;
+    width: 425px;
+}
+
+.desktop-1 .soyez-rfrenc-sur-not {
+    align-self: flex-end;
+    height: 394px;
+    width: 403px;
+}
+
+.desktop-1 .overlap-group11 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-53@2x.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 71px;
+    margin-left: 385.8px;
+    margin-top: 45px;
+    min-width: 489px;
+    padding: 14.6px 47.9px;
+}
+
+.desktop-1 .je-suis-guide-touristique {
+    height: 31px;
+    width: 391px;
+}
+
+.desktop-1 .overlap-group5 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-54.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 58px;
+    margin-right: 11.2px;
+    margin-top: 37px;
+    min-width: 870px;
+    padding: 12.6px 78.3px;
+}
+
+.desktop-1 .les-autres-services {
+    height: 25px;
+    width: 686px;
+}
+
+.desktop-1 .overlap-group12 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-55.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 304px;
+    justify-content: flex-end;
+    margin-right: 11.2px;
+    margin-top: 13px;
+    min-width: 870px;
+    padding: 100.5px 27.3px;
+}
+
+.desktop-1 .tous-vos-formalits-s {
+    height: 32px;
+    width: 765px;
+}
+
+.desktop-1 .flex-row-1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453a7bbb01039916046f1b4/releases/6453a908c94bff5dee3b80d6/img/rectangle-56-1.png);
+    background-size: 100% 100%;
+    display: flex;
+    gap: 179px;
+    height: 301px;
+    justify-content: flex-end;
+    margin-top: 77px;
+    min-width: 1481px;
+    padding: 67.4px 182.0px;
+}
+
+.desktop-1 .guide-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    min-height: 162px;
+    width: 199px;
+}
+
+.desktop-1 .bassoul-travel-guide {
+    height: 10px;
+    margin-left: 0.61px;
+    width: 157px;
+}
+
+.desktop-1 .la-premire-plateform {
+    height: 123px;
+    width: 199px;
+}
+
+.desktop-1 .flex-col-2 {
+    align-self: center;
+    margin-bottom: 0.58px;
+    min-height: 158px;
+    width: 621px;
+}
+
+.desktop-1 .nous-contactez {
+    height: 10px;
+    margin-left: 0.93px;
+    width: 122px;
+}
+
+.desktop-1 .flex-row-2 {
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    min-width: 167px;
+}
+
+.desktop-1 .twitter-1 {
+    height: 22px;
+    width: 27px;
+}
+
+.desktop-1 .linkedin-1 {
+    height: 20px;
+    margin-left: 19px;
+    width: 19px;
+}
+
+.desktop-1 .whatsapp-1 {
+    height: 22px;
+    margin-left: 21px;
+    width: 30px;
+}
+
+.desktop-1 .instagram-1 {
+    height: 22px;
+    margin-left: 17px;
+    width: 34px;
+}
+
+.desktop-1 .flex-row-3 {
+    align-items: center;
+    display: flex;
+    gap: 16px;
+    margin-top: 38px;
+    min-width: 148px;
+}
+
+.desktop-1 .phone-flip-solid-1 {
+    height: 22px;
+    width: 17px;
+}
+
+.desktop-1 .x221-77-108-06-02 {
+    height: 10px;
+    margin-top: 0.6px;
+    width: 114px;
+}
+
+.desktop-1 .flex-row-4 {
+    align-items: center;
+    display: flex;
+    margin-top: 22px;
+    min-width: 621px;
+}
+
+.desktop-1 .email-1 {
+    height: 24px;
+    width: 17px;
+}
+
+.desktop-1 .rokhythiamsngmailcom {
+    height: 13px;
+    margin-left: 16px;
+    margin-top: 0.9px;
+    width: 166px;
+}
+
+.desktop-1 .copyright_fill0_wght400_grad0_opsz48-1 {
+    align-self: flex-end;
+    height: 21px;
+    margin-left: 73px;
+    width: 25px;
+}
+
+.desktop-1 .copyright-bassoul-tr {
+    height: 13px;
+    margin-left: 18px;
+    margin-top: 2.9px;
+    width: 308px;
+}
+
+.desktop-1 .flex-col-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/6453a7b963076cae904c716d.6453a7ba491cb89a2159f59d.6453a7bbb01039916046f1b4.hcp.png");
+
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal>* {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #ffffff;
+
+
+}
